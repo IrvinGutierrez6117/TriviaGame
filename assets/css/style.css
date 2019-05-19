@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%
+}
+
+body {
+    background-image: url("../images/Godzilla-King-Of-The-Monsters-New-Kaiju.jpg");
+}
+
+h3 {
+    margin-bottom: 50px;
+    font-size:30px
+}
+
+#wrapper {
+    width: 50%;
+    length: 100px;
+    box-sizing: 80%;
+    padding: 10%;
+    background-color: aquamarine;
+    top: 23%;
+    left: 50%;
+    align: center;
+    position: absolute;
+    margin-left: -30%
+}
